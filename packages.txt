@@ -1,1 +1,1 @@
-rotatescreen-dev
+pip install rotate-screen
