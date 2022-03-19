@@ -1,4 +1,4 @@
-import rotatescreen
+from rotate-screen import rotatescreen
 import time
 import streamlit as st
 
