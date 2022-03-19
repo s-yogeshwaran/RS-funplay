@@ -1,4 +1,4 @@
-import __init__.py
+import rotatescreen
 import time
 import streamlit as st
 
