@@ -1,5 +1,4 @@
-from pip install rotate-screen import rotatescreen
-#import rotatescreen
+import rotatescreen
 import time
 import streamlit as st
 
