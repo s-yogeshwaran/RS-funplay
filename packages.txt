@@ -1,1 +1,1 @@
-rotate-screen-dev
+rotatescreen-dev
